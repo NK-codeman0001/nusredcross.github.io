@@ -1443,7 +1443,7 @@ footer h2b {
 
 }
 
-@media (max-width: 420px) {
+@media (max-width: 600px) {
       .heading {
         font-size: 37px;
       }
@@ -1451,13 +1451,13 @@ footer h2b {
 }
 
 
-@media (max-width: 340px) {
+@media (max-width: 600px) {
   .heading {
     font-size: 37px;
   }
     #logoimg { 
     height:40px; 
-    float: left; 
+		
     padding-right: 5px;
     padding-bottom: 5px;
     line-height: 30px;
