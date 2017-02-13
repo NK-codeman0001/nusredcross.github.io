@@ -544,7 +544,7 @@ html[xmlns] .slides {display: block;}
 	.top_slider .slide1 .flex_caption1, .top_slider .slide2 .flex_caption1, .top_slider .slide3 .flex_caption1, .top_slider .slide4 .flex_caption1 {margin-left:0; left:15px;}
 	.top_slider .slide1 .flex_caption1 .title1, .top_slider .slide1 .flex_caption1 .title2, .top_slider .slide1 .flex_caption1 .title3, .top_slider .slide2 .flex_caption1 .title1, .top_slider .slide2 .flex_caption1 .title2, .top_slider .slide2 .flex_caption1 .title3, .top_slider .slide3 .flex_caption1 .title1, .top_slider .slide3 .flex_caption1 .title2, .top_slider .slide3 .flex_caption1 .title3, .top_slider .slide4 .flex_caption1 .title1, .top_slider .slide4 .flex_caption1 .title2, .top_slider .slide4 .flex_caption1 .title3,  {font-size:40px; line-height:40px;}
 	
-	.top_slider .slide1 .flex_caption1 .title4, .top_slider .slide2 .flex_caption1 .title4, .top_slider .slide3 .flex_caption1 .title4, .top_slider .slide4 .flex_caption1 .title4 {font-size:13px; line-height:19px; width:420px;}
+	.top_slider .slide1 .flex_caption1 .title4, .top_slider .slide2 .flex_caption1 .title4, .top_slider .slide3 .flex_caption1 .title4, .top_slider .slide4 .flex_caption1 .title4 {font-size:13px; line-height:19px; width:350px;}
 	
 	
 	#carousel .slides li {width:70px !important; height:55px !important; margin:0 0 0 2px !important;}
