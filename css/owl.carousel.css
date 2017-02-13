@@ -98,7 +98,7 @@
 	width:70px;
 	height:70px;
 	margin:0 0 0 -2px;
-	border:2px solid #ccc;
+	border:0px solid #ccc;
 	transition: all 0.3s ease-in-out; 
 	-webkit-transition: all 0.3s ease-in-out;
 }
@@ -106,7 +106,7 @@
 .owl-theme .owl-controls .owl-buttons div:before {
 	position:absolute;
 	left:0;
-	top:0;
+	top:90px;
 	width:68px;
 	height:68px;
 	font-family: FontAwesome;
